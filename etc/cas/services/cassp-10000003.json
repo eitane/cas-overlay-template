@@ -1,0 +1,8 @@
+{
+  "@class" : "org.apereo.cas.support.saml.services.SamlRegisteredService",
+  "serviceId" : "cas-sp",
+  "name" : "cassp",
+  "id" : 10000003,
+  "evaluationOrder" : 10,
+  "metadataLocation" : "https://demo7.contextspace.com/cassp/cs.sso/Metadata"
+}
